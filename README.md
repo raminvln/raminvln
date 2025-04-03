@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with guidance.
 - 💬 Ask me about anything.
 - 📫 How to reach me: just this id on social medias.
-- ⚡ Fun fact: time is limited.
+- ⚡ Fun fact: time  is limited.
